@@ -6,8 +6,8 @@
   <li>$ pkg update && upgrade -y <br>
   <li>$ pkg install git -y <br>
   <li>$ pkg install php -y <br>
-    <li>$ git clone https://github.com/Aditya021/SpamSms
-      <li>$ cd SpamSms
+    <li>$ git clone https://github.com/PHIEZUKE/SMS
+      <li>$ cd SMS
         <li>==> php BomSMS.php
        <li> [susces]
   <marquee>Selesai
