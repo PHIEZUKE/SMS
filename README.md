@@ -1,7 +1,7 @@
 # SpamSms
 <li>Spam SMS Unlimited Khusus Telkomsel</b>
 <li><b>Code Play Dari BullyHat</b>
-<li> { Semua akan matinpada waktunya }
+<li> { Semua akan mati pada waktunya }
  <b> <center><h2>Installer </b></h2>
   <li>$ pkg update && upgrade -y <br>
   <li>$ pkg install git -y <br>
